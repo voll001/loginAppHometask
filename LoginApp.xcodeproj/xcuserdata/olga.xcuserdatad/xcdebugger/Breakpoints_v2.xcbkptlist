@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C398F75D-EDDF-4627-AFF9-6533A54C52F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - b89aa22f77a2bea9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.imagePlace3.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - 39136b393688dcbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.imagePlace3.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - 54de30daae5dedc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.imagePlace3.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - edc520bbb947965b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.imagePlace3.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - ddfa241e43d5e474"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LoginApp.ViewController"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "466A2072-0CC0-4DA5-9849-5167406F9C4F - af13842815bc7162"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginApp.ViewController&gt;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1065">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B264C207-1E8F-474B-BA14-52D25F572128"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B264C207-1E8F-474B-BA14-52D25F572128 - ddfa241e43d5e474"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LoginApp.ViewController"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "B264C207-1E8F-474B-BA14-52D25F572128 - af13842815bc7162"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginApp.ViewController&gt;"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olga/Documents/Projects/LoginApp/LoginApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1065">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
